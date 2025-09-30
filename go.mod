@@ -12,7 +12,7 @@ require (
 	github.com/google/go-cmp v0.7.0
 	github.com/google/pprof v0.0.0-20250820193118-f64d9cf942d6
 	github.com/icza/bitio v1.1.0
-	github.com/ingonyama-zk/icicle-gnark/v3 v3.2.2
+	github.com/ingonyama-zk/icicle/v3 v3.2.2
 	github.com/leanovate/gopter v0.2.11
 	github.com/ronanh/intcomp v1.1.1
 	github.com/rs/zerolog v1.34.0
